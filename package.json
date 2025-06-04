@@ -1,0 +1,25 @@
+{
+  "name": "youtube-comment-downloader",
+  "version": "1.0.0",
+  "description": "Biblioteca para baixar comentários do YouTube",
+  "main": "youtube_comment_downloader.js",
+  "scripts": {
+    "test": "node example.js",
+    "start": "node example.js"
+  },
+  "keywords": [
+    "youtube",
+    "comments",
+    "downloader",
+    "api",
+    "scraper"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.5.0"
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  }
+} 
