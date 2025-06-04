@@ -20,8 +20,8 @@ Uma API JavaScript para obter comentários do YouTube de forma simplificada com 
 1. Clone o repositório:
 
 ```bash
-git clone https://seu-repositorio/youtube-comment-downloader.git
-cd youtube-comment-downloader
+git clone https://github.com/FazcomIA/yt_api_comment
+cd yt_api_comment
 ```
 
 2. Instale as dependências:
